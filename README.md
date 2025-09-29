@@ -96,7 +96,7 @@ These insights informed the creation of KPIs and interactive visualizations in t
 
 **Key SQL Queries & Insights**
 
-1. <u>Total Crimes by Year & Month with Monthly Change</u>: Shows overall crime trends and seasonal patterns.
+1. <ins>Total Crimes by Year & Month with Monthly Change</ins>: Shows overall crime trends and seasonal patterns.
 
 ```SQL
 WITH monthly_crimes AS (
@@ -118,7 +118,7 @@ FROM monthly_crimes
 ORDER BY year, month_num;
 ```
 
-2. <u>Top 5 Most Common Crime Types</u>: Identifies most frequent crime types.
+2. <ins>Top 5 Most Common Crime Types</ins>: Identifies most frequent crime types.
 
 ```SQL
 SELECT 
@@ -130,7 +130,7 @@ ORDER BY total_crimes DESC
 LIMIT 5;
 ```
 
-3. <u>Top 5 Crime Cities</u>: Identifies hotspots where most crimes occur.
+3. <ins>Top 5 Crime Cities</ins>: Identifies hotspots where most crimes occur.
 
 ```SQL
 SELECT 
@@ -142,7 +142,7 @@ ORDER BY total_crimes DESC
 LIMIT 5;
 ```
 
-4. <u>Crimes by Victim Gender</u>: Shows gender distribution among victims.
+4. <ins>Crimes by Victim Gender</ins>: Shows gender distribution among victims.
 
 ```SQL
 SELECT 
@@ -153,7 +153,7 @@ GROUP BY victim_gender
 ORDER BY victim_gender;
 ```
 
-5. <u>Crimes by Victim Age</u>: Highlights vulnerable age groups.
+5. <ins>Crimes by Victim Age</ins>: Highlights vulnerable age groups.
 
 ```SQL
 SELECT 
@@ -164,7 +164,7 @@ GROUP BY victim_age_group
 ORDER BY victim_age_group;
 ```
 
-6. <u>Top 5 Peak Crime</u>: Identifies times of day when crimes are most frequent.
+6. <ins>Top 5 Peak Crime</ins>: Identifies times of day when crimes are most frequent.
 
 ```SQL
 SELECT 
@@ -176,7 +176,7 @@ ORDER BY total_crimes DESC
 LIMIT 5;
 ```
 
-7. <u>Percentage wise case analysis per city</u>: Shows effectiveness of case resolution.
+7. <ins>Percentage wise case analysis per city</ins>: Shows effectiveness of case resolution.
 
 ```SQL
 SELECT 
@@ -189,7 +189,7 @@ GROUP BY city
 ORDER BY closure_rate_percent DESC;
 ```
 
-8. <u>Top Weapon Used in Crimes</u>: Identifies most commonly used weapons in crimes.
+8. <ins>Top Weapon Used in Crimes</ins>: Identifies most commonly used weapons in crimes.
 
 ```SQL
 SELECT 
@@ -202,7 +202,7 @@ ORDER BY total_crimes DESC
 LIMIT 5;
 ```
 
-9. <u>Most Common Crime by City</u>: Shows the dominant crime type in each city.
+9. <ins>Most Common Crime by City</ins>: Shows the dominant crime type in each city.
 
 ```SQL
 WITH most_common_crime AS (
@@ -218,7 +218,7 @@ WHERE rnk = 1
 ORDER BY city, rnk;
 ```
 
-10. <u>Average case closure time per city</u>: Shows the average duration of case.
+10. <ins>Average case closure time per city</ins>: Shows the average duration of case.
 
 ```SQL
 SELECT 
@@ -232,7 +232,7 @@ GROUP BY city
 ORDER BY avg_days_to_close;
 ```
 
-11. <u>Peak Weekday Crime per City</u>: Shows the peak crime of that weekday in that city.
+11. <ins>Peak Weekday Crime per City</ins>: Shows the peak crime of that weekday in that city.
 
 ```SQL
 WITH most_crime_per_day_of_week AS (
@@ -253,7 +253,7 @@ WHERE rnk = 1
 ORDER BY total_crimes DESC;
 ```
 
-12. <u>Most common crime during Day & Night</u>: Shows the peak crime of that weekday in that city.
+12. <ins>Most common crime during Day & Night</ins>: Shows the peak crime of that weekday in that city.
 
 ```SQL
 WITH crime_shifts_detail AS (
