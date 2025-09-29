@@ -85,12 +85,12 @@ The data exploration and analysis process was carried out in multiple steps to e
 3. **Exploratory Insights Using SQL**
 Some key insights extracted through SQL queries include:
 
-- _Crime Trends_: Analyzed total crimes by year, month, day of the week, and hour to identify peak crime periods.
-- _Crime Types_: Identified the most frequent crime categories and descriptions.
-- _Location Analysis_: Determined crime hotspots by city.
-- _Victim Demographics_: Studied distribution by age group and gender.
-- _Case Status & Police Deployment_: Explored open vs closed cases and resource allocation.
-- _Weapon Usage_: Found the most commonly used weapons in crimes.
+    - _Crime Trends_: Analyzed total crimes by year, month, day of the week, and hour to identify peak crime periods.
+    - _Crime Types_: Identified the most frequent crime categories and descriptions.
+    - _Location Analysis_: Determined crime hotspots by city.
+    - _Victim Demographics_: Studied distribution by age group and gender.
+    - _Case Status & Police Deployment_: Explored open vs closed cases and resource allocation.
+    - _Weapon Usage_: Found the most commonly used weapons in crimes.
 
 These insights informed the creation of KPIs and interactive visualizations in the Power BI dashboard, providing a comprehensive view of crime patterns and trends.
 
