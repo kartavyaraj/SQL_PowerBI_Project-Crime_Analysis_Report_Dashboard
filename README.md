@@ -351,51 +351,51 @@ Between **January 2020 and July 2024**, a total of **40,160 crime** cases were r
 
     - **Delhi** consistently emerged as **India’s crime capital**, with **5,400+ reported cases**, far surpassing other cities.
 
-    - Major metros like **Pune and Surat** also recorded higher crime rates, particularly **violent and weapon-related crimes**.
+    - Major metros like **Pune and Surat** also recorded higher crime rates, particularly **violent** and **weapon-related crimes**.
 
-    - Smaller cities such as **Rajkot, Faridabad, and Varanasi** reported significantly fewer cases, indicating either **lower crime** prevalence or underreporting.
+    - Smaller cities such as **Rajkot, Faridabad**, and **Varanasi** reported significantly fewer cases, indicating either **lower crime** prevalence or underreporting.
 
-    - Urban centers showed higher incidents of **fraud, burglary, and domestic violence**, while smaller towns leaned towards **property damage and localized disputes**.  
+    - Urban centers showed higher incidents of **fraud, burglary**, and **domestic violence**, while smaller towns leaned towards **property damage and localized disputes**.  
 
 - ***Demographics of Victims***
     - Women were the most frequent victims, accounting for **22,423 cases (55.8%)**.
 
-    - Age Group 19–40: Dominated by **burglary and fraud**-related crimes.
+    - Age Group 19–40: Dominated by **burglary** and **fraud**-related crimes.
 
-    - Age Group 41–60: More exposed to **homicide, fraud, and firearm offenses**.
+    - Age Group 41–60: More exposed to **homicide, fraud**, and **firearm offenses**.
 
-    - Age Group 60+: Faced high levels of **vandalism and property-related crimes**.
+    - Age Group 60+: Faced high levels of **vandalism** and **property-related crimes**.
 
     - Gender and age analysis reveals that young to middle-aged women are the most vulnerable demographic segment.
 
 - ***Weapons in Crime***
     - **71.4%** of all crimes **involved weapons**, underscoring the seriousness of incidents.
 
-    - **Knives** were the most commonly used weapon, frequently linked to **burglary and domestic violence** cases.
+    - **Knives** were the most commonly used weapon, frequently linked to **burglary** and **domestic violence** cases.
 
-    - **Firearms** dominated in **violent crimes (homicide, armed robbery, and gang-related violence)**.
+    - **Firearms** dominated in **violent crimes** (**homicide, armed robbery**, and **gang-related violence**).
 
-    - **Firearm**-heavy cities included **Delhi, Pune, and Surat**, reflecting urban gang activity and organized crime.
+    - **Firearm**-heavy cities included **Delhi, Pune**, and **Surat**, reflecting urban gang activity and organized crime.
 
-    - Non-lethal weapons **(rods, blunt objects)** were more common in **vandalism and street disputes**.
+    - Non-lethal weapons (**rods, blunt objects**) were more common in **vandalism** and **street disputes**.
 
 - ***Temporal Analysis – When Crimes Happen***
 
-    - Peak crime hour: **11 AM**, often associated with ***fraud, theft, and daytime domestic disputes***.
+    - Peak crime hour: **11 AM**, often associated with ***fraud, theft**, and **daytime domestic disputes***.
 
     - Peak crime day: **Wednesdays**, possibly linked to mid-week activity spikes.
 
     - Peak crime month: **March**, across multiple years, suggesting seasonal or socio-economic triggers.
 
-    - Daytime crimes: **Fraud, homicide, and domestic violence** were more prevalent.
+    - Daytime crimes: **Fraud, homicide**, and **domestic violence** were more prevalent.
 
-    - Nighttime crimes: **Burglary, vandalism, and firearm offenses** dominated.  
+    - Nighttime crimes: **Burglary, vandalism**, and **firearm offenses** dominated.  
 
 - ***Crime Trends Over the Years***
 
     - **2021** recorded the **highest crime volume**, possibly linked to post-pandemic socio-economic stress.
 
-    - After 2021, some categories **(like fraud) declined**, while violent crimes **(firearm offenses, homicide) maintained** steady rates.
+    - After 2021, some categories **(like fraud) declined**, while violent crimes (**firearm offenses, homicide**) maintained steady rates.
 
     - Top recurring crimes across all years:
         - Burglary 
@@ -479,4 +479,4 @@ For any questions or further information, please contact me.
 
 ---
 
-[🔼 Back to Top](#crime-analysis-and-dashboard-project)
+[🔼 Back to Top](#crime-data-analysis--visualization-dashboard )
