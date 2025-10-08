@@ -1,4 +1,4 @@
-# Crime Analysis and Dashboard Project
+# Crime Data Analysis & Visualization Dashboard 
 
 _Interactive Crime Analysis Report & Dashboard built with SQL, Power BI, and DAX, visualizing 40,000+ crime cases in India (2020–2024). Explore trends, city-wise distribution, victim demographics, weapon usage, and temporal patterns for actionable insights._
 
@@ -450,7 +450,7 @@ Between **January 2020 and July 2024**, a total of **40,160 crime** cases were r
 
 ## Conclusion
 
-This Crime Analysis Dashboard project demonstrates my proficiency in data analysis, SQL, and interactive visualization using Power BI. It showcases my ability to:
+This **Crime Data Analysis & Visualization Dashboard** project demonstrates my proficiency in data analysis, SQL, and interactive visualization using Power BI. It showcases my ability to:
 
 1. Preprocess, Clean and Transform raw messy crime data using Power Query, handle missing values, and create calculated columns for accurate analysis.
 
