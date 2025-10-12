@@ -466,9 +466,9 @@ This project highlights my ability to transform raw crime data into clear, actio
 
 ## Author
 
-***Kartavya Raj*** – Aspiring Data Analyst
+***Kartavya Raj*** – Data Analyst
 
-Passionate about data analysis, visualization, modeling and business insights. Skilled in Excel, SQL, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
+Passionate about data analysis, visualization, modeling, business insights and automation & reporting. Skilled in Advanced Excel, SQL, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
 
 
 ## Contact
